@@ -10,4 +10,4 @@
 * Bootstrap
 
 ## Link:
-https://joao-carmassi.github.io/Serenato/
+https://joao-carmassi.github.io/serenato/
